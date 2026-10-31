@@ -1,0 +1,22 @@
+{
+  "wheel_id": 600,
+  "structure": "umbrella",
+  "slug": "westernsydneykitchenrenovation-107",
+  "project": "kitchen-renovations-western-sydney-diy-vs-professional-d3f5d",
+  "parent_t1_ref": "westernsydneykitchenrenovation-153",
+  "node_role": "feeder",
+  "money_target": "westernsydneykitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations western sydney diy vs professional",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-western-sydney-diy-vs-professional-d3f5d/",
+  "tier": "T2",
+  "writeback_nonce": "b04d3e291a119491",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-western-sydney-materials-compared-627e4ebe9/",
+      "anchor": "this kitchen renovations western sydney materials compared resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
